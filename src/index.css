@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.alice-carousel__wrapper{
+    padding:40px 0;
+  }
